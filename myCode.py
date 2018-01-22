@@ -3,3 +3,4 @@ def blah:
 
 a = 5
 b = 7
+c = "DO NOT WANT"
